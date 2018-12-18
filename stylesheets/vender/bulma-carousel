@@ -7,6 +7,7 @@
   position: relative;
   border: none;
   display: flex;
+  height: 100% !important;
   margin: 0;
   padding: 0;
   left: -100%;
@@ -104,9 +105,6 @@
   margin: auto;
   padding: 0;
   z-index: 0; }
-
-.hero.has-carousel .hero-carousel .carousel-container {
-  height: auto !important; }
 
 .hero-carousel {
   position: relative;
